@@ -77,6 +77,40 @@ git push
 ```
 
 ---
+---
+
+# 🌲 Branching Strategy
+
+This repository follows a simplified Git Flow model to simulate professional development workflows.
+
+## Branch Structure
+
+- `main` → Production-ready stable history
+- `develop` → Integration branch for features
+- `feature/*` → Individual branches for learning exercises and experimentation
+
+This approach helps in understanding:
+- branching
+- merging
+- rebasing
+- conflict resolution
+- collaborative workflows
+
+---
+
+# 📊 Visualizing the Workflow
+
+Below is a representation of the commit history and branching workflow used in this repository.
+
+## Workflow Example 1
+
+![Git Workflow 1](assets/images/git-history-1.png)
+
+---
+
+## Workflow Example 2
+
+![Git Workflow 2](assets/images/git-history-2.png)
 
 ## 🎯 Goals
 
