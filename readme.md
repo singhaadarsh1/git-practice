@@ -104,13 +104,13 @@ Below is a representation of the commit history and branching workflow used in t
 
 ## Workflow Example 1
 
-![Git Workflow 1](assets/images/git-history-1.png)
+![Git Workflow 1](assets/images/git-history-1.jpg)
 
 ---
 
 ## Workflow Example 2
 
-![Git Workflow 2](assets/images/git-history-2.png)
+![Git Workflow 2](assets/images/git-history-2.jpg)
 
 ## 🎯 Goals
 
